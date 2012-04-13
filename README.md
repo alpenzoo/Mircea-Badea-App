@@ -9,7 +9,10 @@ Sections
 This app is split into 3 parts:
 
 ### Back-end
-	Contains the back-end part that scrapes the official site, inserts a new show into a MongoDB and generates the static XML file used by the app
+	Contains the back-end part:
+	-scrapes the official site 
+	-inserts a new show into a MongoDB 
+	-generates the static XML file used by the app
 
 ### Front-end
 	Contains the front-end part that is loaded by the mobile app
