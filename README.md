@@ -3,7 +3,7 @@ Mircea Badea App
 
 This is a mobile app for Mircea Badea
 
-Sections
+Parts
 -------
 
 This app is split into 3 parts:
