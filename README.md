@@ -35,5 +35,5 @@ Usage
 Licence
 -------
 
-	This application is licenced under the GNU General Public License (http://www.gnu.org/licenses/gpl.html)
+This application is licenced under the GNU General Public License (http://www.gnu.org/licenses/gpl.html)
     
