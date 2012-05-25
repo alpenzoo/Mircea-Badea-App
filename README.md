@@ -31,4 +31,9 @@ Usage
 -----
 
 	Start the app
+	
+Licence
+-------
+
+	This application is licenced under the GNU General Public License (http://www.gnu.org/licenses/gpl.html)
     
